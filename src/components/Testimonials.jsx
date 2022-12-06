@@ -1,8 +1,10 @@
-import React from 'react'
+
 
 function Testimonials() {
   return (
-    <div>Testimonials</div>
+    <section>
+      
+    </section>
   )
 }
 
