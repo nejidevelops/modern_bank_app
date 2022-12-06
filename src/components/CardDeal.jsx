@@ -1,8 +1,11 @@
-import React from 'react'
+import { card } from "../assets"
+import {styles} from "../style"
 
 function CardDeal() {
   return (
-    <div>CardDeal</div>
+    <section>
+
+    </section>
   )
 }
 
