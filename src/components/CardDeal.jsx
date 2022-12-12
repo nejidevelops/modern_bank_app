@@ -8,8 +8,8 @@ function CardDeal() {
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>Find a better card deal <br className="sm:block hid" />in few easy steps</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt similique eum labore in neque tenetur facere eveniet maxime maiores rerum deserunt sed nobis incidunt, culpa natus mollitia expedita molestiae vitae.</p>
+        <Button styles="mt-10" />
       </div>
-      <Button styles="mt-10" />
 
       <div className={layout.sectionImg}>
         <img src={card} alt="card" className="w-[100%] h-[100%]" />
